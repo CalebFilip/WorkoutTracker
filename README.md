@@ -35,7 +35,7 @@ The user can view their progress in two ways. -**By Date**: This will show worko
 
   `dotnet  run`
 
-### 4. **Files Required for Execution**
+**Files Required for Execution**
 
 - Ensure the following files are present in the files directory:
   - exercises.csv
