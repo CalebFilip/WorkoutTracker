@@ -1,0 +1,14 @@
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\bin\Debug\net9.0\WorkoutTracker.exe
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\bin\Debug\net9.0\WorkoutTracker.deps.json
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\bin\Debug\net9.0\WorkoutTracker.runtimeconfig.json
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\bin\Debug\net9.0\WorkoutTracker.dll
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\bin\Debug\net9.0\WorkoutTracker.pdb
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\obj\Debug\net9.0\WorkoutTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\obj\Debug\net9.0\WorkoutTracker.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\obj\Debug\net9.0\WorkoutTracker.AssemblyInfo.cs
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\obj\Debug\net9.0\WorkoutTracker.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\obj\Debug\net9.0\WorkoutTracker.dll
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\obj\Debug\net9.0\refint\WorkoutTracker.dll
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\obj\Debug\net9.0\WorkoutTracker.pdb
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\obj\Debug\net9.0\WorkoutTracker.genruntimeconfig.cache
+C:\Users\filip\Documents\School\OOP\WorkoutTracker\WorkoutTracker\obj\Debug\net9.0\ref\WorkoutTracker.dll
